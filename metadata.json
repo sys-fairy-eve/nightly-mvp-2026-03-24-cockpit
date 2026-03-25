@@ -2,11 +2,21 @@
   "inspired_by": "cockpit-project/cockpit",
   "project_name": "Cockpit Server Dashboard",
   "description": "Web-based server admin dashboard with system monitoring, service control, log viewer, and in-browser terminal",
-  "tech_stack": ["Vite", "React", "TypeScript", "Tailwind CSS"],
+  "tech_stack": [
+    "Vite",
+    "React",
+    "TypeScript",
+    "Tailwind CSS"
+  ],
   "build_date": "2026-03-24",
   "build_time_hours": 0.3,
   "status": "complete",
-  "features": ["System health overview with live gauges", "Services panel with 15 services", "Log viewer with 4 tabs and live streaming", "In-browser terminal emulator with command history"],
+  "features": [
+    "System health overview with live gauges",
+    "Services panel with 15 services",
+    "Log viewer with 4 tabs and live streaming",
+    "In-browser terminal emulator with command history"
+  ],
   "live_url": "https://mvp.trollefsen.com/2026-03-24-cockpit/",
-  "github_url": ""
+  "github_url": "https://github.com/sys-fairy-eve/nightly-mvp-2026-03-24-cockpit"
 }
